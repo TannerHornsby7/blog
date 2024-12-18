@@ -2,5 +2,6 @@
 
 [^python]: Python testing and type-checking are run locally and not on GitHub actions.
 
+personal blog forked from [turntrout.com](https://github.com/alexander-turner/TurnTrout.com/)
 
-turntrout.com © 2024 by Alexander Turner is licensed under CC BY-SA 4.0.
+licensed under CC BY-SA 4.0.
